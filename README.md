@@ -1,4 +1,4 @@
-# INFOTC-1000-Final-Project
+# INFOTC 1000 Final Project
 
 **Who is Stephen White**
 
