@@ -10,5 +10,5 @@ As you can tell, I take my gaming very seriously.
 
 [Homepage](README.md)
 [Brewing](Brewing.md)
-[Blues](Blues)
+[Blues](Blues.md)
 [Flying](Flying.md)
