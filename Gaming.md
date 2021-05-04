@@ -7,3 +7,9 @@ Here is a picture of my PC that I use for gaming on:
 ![MyPC](https://user-images.githubusercontent.com/77766575/116960312-a54ea080-ac65-11eb-94b2-de1bae87be26.JPG)
 
 As you can tell, I take my gaming very seriously.
+
+[Homepage](README.md)
+[Gaming](Gaming.md)
+[Brewing](Brewing.md)
+[Blues](Blues)
+[Flying](Flying.md)
