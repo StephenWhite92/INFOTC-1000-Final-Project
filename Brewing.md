@@ -1,6 +1,6 @@
 # All About Beer
 
-**Beer is Food**
+## Beer is Food
 
 ![image](https://news.berkeley.edu/wp-content/uploads/2018/03/beerhops750.jpg)
 
