@@ -16,9 +16,10 @@ I began brewing beer in 2018 and I work to brew better beer each time I do so. M
 
 Because I am going into IT here is a link to a Scalable Vector Graphic code that I created as part of this class. [Blues](Blues)
 
-
+Lastly, I want to express my passion for flying and you can read more about that [here](Flying.md)
 
 
 [Gaming](Gaming.md)
 [Brewing](Brewing.md)
 [Blues](Blues)
+[Flying](Flying.md)
