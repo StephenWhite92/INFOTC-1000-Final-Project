@@ -19,5 +19,4 @@ In his limited free time he likes to play videogames, listen to podcasts, and br
 
 
 
-
-[Brewing](https://github.com/StephenWhite92/INFOTC-1000-Final-Project/blob/4e87ca4a3e59e2cb2fb3a6835901ab57a03798e2/Brewing.md) 
+[Brewing](Brewing.md)
