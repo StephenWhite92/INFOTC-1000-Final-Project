@@ -9,7 +9,6 @@ Here is a picture of my PC that I use for gaming on:
 As you can tell, I take my gaming very seriously.
 
 [Homepage](README.md)
-[Gaming](Gaming.md)
 [Brewing](Brewing.md)
 [Blues](Blues)
 [Flying](Flying.md)
