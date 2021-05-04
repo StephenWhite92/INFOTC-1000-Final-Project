@@ -8,4 +8,8 @@ When I say beer is food, what I mean is that it is not only a food product, but 
 
 As a homebrewer I have a few books that I have used that have helped me in brewing better beer. The first book I would recommend to a new homebrewer is "*How to Brew*" by John Palmer. He gives an amazing guide to the new and seasoned homebrewer how to start brewing beer at a basic level, all the way up to some of the most complex methods and systems of brewing. In fact an older edition of his book is available free online at his website: [How to Brew.](http://howtobrew.com/book/) The second book I would recommend is "*Designing Great Beers*" by Ray Daniels. This book gives the homebrewer a fantastic guide of what ingredients and techniques are needed in order to brew the many different styles of beer at the homebrewer level. The last book I would recommend is "*Brewing Classic Styles*" by Jamil Zainasheff and John Palmer. This book will give the homebrewer over 80 recipies of various styles that are award winning beers at the National Homebrewer's Conference competition.
 
-[Return to homepage](README.md)
+[Homepage](README.md)
+[Gaming](Gaming.md)
+[Brewing](Brewing.md)
+[Blues](Blues)
+[Flying](Flying.md)
