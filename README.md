@@ -14,12 +14,12 @@ In my limited free time I like to play videogames, listen to podcasts, and brew 
 My favorite genres of videogames are roguelikes, racing games, single player first person shooters, and role playing games. You can see more about my favorite genre of games as well as my gaming PC [here.](Gaming.md)
 I began brewing beer in 2018 and I work to brew better beer each time I do so. My favorite styles of beer to drink and brew are IPAs (India Pale Ales), Belgian Tripels, Pale Ales, and Porters. You can read more about my passion for brewing and the resources I use [here.](Brewing.md)
 
-Because I am going into IT here is a link to a Scalable Vector Graphic code that I created as part of this class. [Blues](Blues)
+Because I am going into IT here is a link to a Scalable Vector Graphic code that I created as part of this class. [Blues](Blues.md)
 
 Lastly, I want to express my passion for flying and you can read more about that [here](Flying.md)
 
 
 [Gaming](Gaming.md)
 [Brewing](Brewing.md)
-[Blues](Blues)
+[Blues](Blues.md)
 [Flying](Flying.md)
