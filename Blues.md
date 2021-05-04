@@ -1,3 +1,5 @@
+# SVG Blues Logo Code
+
 ~~~
 <!DOCTYPE html>
 <html>
@@ -15,3 +17,7 @@
 </html>
 ~~~
 
+[Homepage](README.md)
+[Gaming](Gaming.md)
+[Brewing](Brewing.md)
+[Flying](Flying.md)
