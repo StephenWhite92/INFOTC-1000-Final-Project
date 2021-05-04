@@ -10,5 +10,5 @@ As a homebrewer I have a few books that I have used that have helped me in brewi
 
 [Homepage](README.md)
 [Gaming](Gaming.md)
-[Blues](Blues)
+[Blues](Blues.md)
 [Flying](Flying.md)
