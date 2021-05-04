@@ -21,3 +21,4 @@ Because I am going into IT here is a link to a Scalable Vector Graphic code that
 
 [Gaming](Gaming.md)
 [Brewing](Brewing.md)
+[Blues](Blues)
