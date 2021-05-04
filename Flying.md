@@ -13,3 +13,8 @@ Here are some images of my favorite airplanes:
 ![image](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/p51-mustang-fighter-aircraft-kevin-mccarthy.jpg)
 
 ![image](http://3.bp.blogspot.com/-QHWb8sZvQ8A/TlKP9x3glnI/AAAAAAAAMH4/akXcVfeb0ks/s1600/Lockheed+SR-71+Blackbird+%25283%2529.jpg)
+
+[Homepage](README.md)
+[Gaming](Gaming.md)
+[Brewing](Brewing.md)
+[Blues](Blues.md)
