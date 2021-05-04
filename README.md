@@ -10,4 +10,14 @@ He works full time at a local grocery store and has been with them for almost 9 
 * Customer Service Manager for .5 years.
 * Center Store Lead/Period Inventory Clerk for 1 year.
 
-In his limited free time he likes to play videogames, listen to podcasts, and brew his own beer. His favorite genre of videogame is Roguelikes. He began brewing beer in 2018 and works to brew better beer each time he does so. His favorite styles of beer to drink and brew are IPAs (India Pale Ales), Belgian Tripels, Pale Ales, and Porters. You can read more about his passion for brewing and the resources he uses [here](https://github.com/StephenWhite92/INFOTC-1000-Final-Project/blob/be0e29917695123e53281dbab9179480c8ca3f1d/Brewing.md)
+In his limited free time he likes to play videogames, listen to podcasts, and brew his own beer. His favorite genre of videogame is Roguelikes. He began brewing beer in 2018 and works to brew better beer each time he does so. His favorite styles of beer to drink and brew are IPAs (India Pale Ales), Belgian Tripels, Pale Ales, and Porters. You can read more about his passion for brewing and the resources he uses [here](https://github.com/StephenWhite92/INFOTC-1000-Final-Project/blob/4e87ca4a3e59e2cb2fb3a6835901ab57a03798e2/Brewing.md)
+
+
+
+
+
+
+
+
+
+[Brewing](https://github.com/StephenWhite92/INFOTC-1000-Final-Project/blob/4e87ca4a3e59e2cb2fb3a6835901ab57a03798e2/Brewing.md) 
